@@ -1,0 +1,5 @@
+###########################
+###Repository created to###
+####storage some simple####
+###tasks written in c++!###
+###########################
